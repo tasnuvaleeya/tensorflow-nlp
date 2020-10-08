@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+~*.pyc
+data/
+nlp/data/
